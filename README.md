@@ -1,7 +1,4 @@
-Balancing Robot Project 
-
-I am pleased to share my experience in developing and implementing the Balancing Robot project, which is a practical application of principles in artificial intelligence and mechanical engineering. This robot was designed to stand independently and maintain balance when subjected to disturbances.
-
+# Balancing Robot Project 
 Project Details:
 1. **MPU6050 Gyroscope**: The MPU6050 gyroscope was used to measure the acceleration and angle of the robot, helping to determine its tilt and maintain balance.
 2. **Arduino Uno**: The Arduino Uno board was used as the main control unit, executing the necessary program to control the robot and adjust its balance.
